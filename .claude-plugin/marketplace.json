@@ -1,0 +1,17 @@
+{
+  "name": "milo2048-plugins",
+  "owner": {
+    "name": "Miles Thomason"
+  },
+  "description": "Custom Claude Code plugins by Miles Thomason",
+  "plugins": [
+    {
+      "name": "dialect",
+      "source": {
+        "source": "github",
+        "repo": "milo2048/claude-dialect-plugin"
+      },
+      "description": "Switch Claude's writing style between fun dialects"
+    }
+  ]
+}
