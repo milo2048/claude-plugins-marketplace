@@ -12,6 +12,14 @@
         "repo": "milo2048/claude-dialect-plugin"
       },
       "description": "Switch Claude's writing style between fun dialects"
+    },
+    {
+      "name": "jenkins",
+      "source": {
+        "source": "github",
+        "repo": "milo2048/claude-jenkins-plugin"
+      },
+      "description": "Jenkins workflows as skills: check builds, fetch logs, download artifacts, trigger and watch builds"
     }
   ]
 }
